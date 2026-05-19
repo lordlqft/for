@@ -1,9 +1,6 @@
 /*
-for (int i = 1; i <= 20; i++)
+for (int i = 1; i <= 20; i += 2)
 {
-    if (i % 2 == 0)
-    {
-        Console.WriteLine(i);
-    }
+    Console.WriteLine(i);
 }
 */
